@@ -5,7 +5,7 @@ const assert = require('assert');
 
 const describe = global.describe;
 const it = global.it;
-const beforeEach = global.beforeEach; 
+const beforeEach = global.beforeEach;
 const afterEach = global.afterEach;
 
 describe('app.client.auditAccessibility()', function () {
